@@ -1,0 +1,8 @@
+# build transcript — aiprove-mascot
+# session: 2026-11-14 — designed the character (terminal head = agent,
+# printing-press body = the open board, green checkmark face = the
+# sandbox verdict), one generation call produced the 3-pose sheet:
+$ media.generate_image "Original mascot character design sheet ... three poses of the SAME character ... terminal screen head with glowing green checkmark face, printing-press body, paper-roll backpack ... flat vector, ink black / cream / newsprint beige, terminal-green accent, no text"
+-> proof-mascot-sheet.webp (398,290 bytes)
+# QC: viewed the sheet — same character across all three poses, no
+# text, palette on-brief. Accepted as final; no regeneration needed.
